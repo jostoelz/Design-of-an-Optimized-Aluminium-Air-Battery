@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1741281200.84653 "main.aux" "main.bbl" "main" 1741282209.70875 0
+["bibtex main"] 1741281200.84653 "main.aux" "main.bbl" "main" 1741284960.85774 0
   "./biblio.bib" 1604852422 814 0ca4b682e688379a1353768c9e549daf ""
   "C:/Users/johan/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1741282208 6516 eb85c4f896f74548bcf87d65b55e8c19 "pdflatex"
+  "main.aux" 1741284958 6516 eb85c4f896f74548bcf87d65b55e8c19 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1741282204.04278 "c:/Users/johan/OneDrive - Kantonsschule Romanshorn/Chemie/Chemie-Projekt/Aluminium-Luft-Batterie/main.tex" "main.pdf" "main" 1741282209.7095 0
+["pdflatex"] 1741284951.10534 "c:/Users/johan/OneDrive - Kantonsschule Romanshorn/Chemie/Chemie-Projekt/Aluminium-Luft-Batterie/main.tex" "main.pdf" "main" 1741284960.85898 0
   "C:/Users/johan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741272182 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/johan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1741272196 24152 67b456efe943bfdd0df68acfe0bd100c ""
   "C:/Users/johan/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1741272187 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -268,7 +268,7 @@
   "C:/Users/johan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/johan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/johan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/johan/OneDrive - Kantonsschule Romanshorn/Chemie/Chemie-Projekt/Aluminium-Luft-Batterie/main.tex" 1741282203 15915 00a8130630c097cf620cc81273b3cf3b ""
+  "c:/Users/johan/OneDrive - Kantonsschule Romanshorn/Chemie/Chemie-Projekt/Aluminium-Luft-Batterie/main.tex" 1741284949 16120 4e657f288e4122f320c6d8f6c948f7dc ""
   "code_formatting.tex" 1697634562 4170 b0edd4549a47acdaa6596f691b120cba ""
   "commands.tex" 1604852422 1472 836abbf0ad87eb08c8e97ac7a2799146 ""
   "figures/Abbau_Aluminium.JPEG" 1741277285 174317 76f37978833121e1af02b4d530043229 ""
@@ -279,12 +279,12 @@
   "figures/gross_klein_Grillkohle.JPEG" 1741281085 88488 0c7a9802028e81d1f749c655e2b58c01 ""
   "figures/grumpy_cat.jpg" 1604852422 70942 684f0a72fb5fa903db84ac8d1df0792c ""
   "figures/latex_workshop.png" 1697552884 274619 f3b0b1ff5710fb73053d9dee4148b548 ""
-  "main.aux" 1741282208 6516 eb85c4f896f74548bcf87d65b55e8c19 "pdflatex"
+  "main.aux" 1741284958 6516 eb85c4f896f74548bcf87d65b55e8c19 "pdflatex"
   "main.bbl" 1741281201 1573 9ca2b8b8a8dc8da09620618d9dae19ba "bibtex main"
-  "main.lof" 1741282208 880 88736d42f89eee49fa97851c64d6c5dd "pdflatex"
-  "main.out" 1741282208 4261 b46d3e9cead180a86943b44f98e54c11 "pdflatex"
-  "main.tex" 1741282203 15915 00a8130630c097cf620cc81273b3cf3b ""
-  "main.toc" 1741282208 2485 4bcf592ad042fe404667dff324f90d6e "pdflatex"
+  "main.lof" 1741284958 880 88736d42f89eee49fa97851c64d6c5dd "pdflatex"
+  "main.out" 1741284958 4261 b46d3e9cead180a86943b44f98e54c11 "pdflatex"
+  "main.tex" 1741284949 16120 4e657f288e4122f320c6d8f6c948f7dc ""
+  "main.toc" 1741284958 2485 4bcf592ad042fe404667dff324f90d6e "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
