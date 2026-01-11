@@ -25,9 +25,9 @@ If you find this project useful for your research, please consider citing it:
 ## 🧭 Visual Overview
 
 <p align="center">
-  <img src="Overview.png" alt="Overview of system development and operational methodology." width="900"/>
+  <img src="Design Optimal Aluminium-Air-Battery.png" alt="Design Optimal Aluminium-Air-Battery." width="900"/>
   <br/>
-  <em>Overview of system development and operational methodology.</em>
+  <em>Design Optimal Aluminium-Air-Battery.</em>
 </p>
 
 ## 📜 License
