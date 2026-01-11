@@ -13,7 +13,7 @@ If you find this project useful for your research, please consider citing it:
 
 ```bibtex
 @thesis{StoelzleBajramaj2025Design,
-  author = {St{\"o}lzle, Johannes and Bajramaj, Luan},
+  author      = {St{\"o}lzle, Johannes and Bajramaj, Luan},
   title       = {Design of an Optimized Aluminium-Air Battery },
   institution = {Kantonsschule Romanshorn},
   year        = {2025},
