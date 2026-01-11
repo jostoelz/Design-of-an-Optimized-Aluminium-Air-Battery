@@ -1,50 +1,40 @@
-# Read Me
+# 📘 Design of an Optimized Aluminium-Air Battery 
+## 🔗 Online Access
 
-## Allgemeines
+- Thesis: <https://drive.google.com/drive/folders/1KK6gVLBgoUCPGl14tEU8sXe4DDyWTh5L>
 
-Dieses Template kann verwendet werden um selbständige Arbeiten (MA, SA, SLA) an der Kantonsschule Romanshorn zu schreiben.
+## 🔍 Abstract
+This research paper investigates the systematic development and optimization of an aluminum-air battery as a potential alternative energy source for emergency situations, such as power shortages. Using a foundational "MacGyver-Battery" as a starting point, the study explores how various modifications to the anode, cathode, and electrolyte influence the battery's efficiency and electrical output. Through a series of controlled experiments, the researchers evaluated different cathode materials—including carbon rods, charcoal brushes, and BBQ charcoal—finding that BBQ charcoal provides the most stable voltage and current over time due to its porus structure. Comparisons between anode materials revealed that aluminum plates are superior to aluminum foil, offering significantly higher short-circuit currents and more stable voltage under load.
+The study further demonstrates that increasing the surface area of the electrodes and the concentration of the potassium hydroxide electrolyte significantly enhances performance. Testing multi-cell configurations confirmed that while connecting cells in series increases total voltage, the total contact surface area remains the most decisive factor for power delivery. The final optimized design comprises several series-connected cells utilizing large aluminum plates, large BBQ charcoal pieces, and a high-concentration potassium hydroxide solution. While identifying limitations regarding long-term stability and electrode corrosion, the paper concludes that the aluminum-air battery is a viable laboratory-scale power source with potential for mobile applications if further developed with protective housing and efficient recycling methods for reaction byproducts.
 
-Bei Fragen, Unklarheiten oder falls Fehler gefunden werden, bitte melden bei sca@ksr.ch
+## 📖 Citation
 
-## Arbeiten mit dem Template
+If you find this project useful for your research, please consider citing it:
 
-### LaTeX einrichten
+```bibtex
+@thesis{StoelzleBajramaj2025Design,
+  author = {St{\"o}lzle, Johannes and Bajramaj, Luan},
+  title       = {Design of an Optimized Aluminium-Air Battery },
+  institution = {Kantonsschule Romanshorn},
+  year        = {2025},
+  type        = {Thesis},
+  url         = {https://github.com/jostoelz/Design-of-an-Optimized-Aluminium-Air-Battery}
+}
+```
 
-   1. Zuerst muss **LaTeX installiert** werden:
-      * Windows: https://www.tug.org/texlive/windows.html (klicke aus `install-tl-windows.exe')
-      * Mac https://www.tug.org/mactex/mactex-download.html (klicke auf `MacTeX.pkg.')
-    \end{itemize}
-   1. Es wird empfohlen, mit dem Editor **Visual Studio Code** (kurz VSCode) zu arbeiten: https://code.visualstudio.com
-   1. **LaTeX-Workshop-Extension** für VSCode installieren:
-      1. Extensions-Reiter öffnen
-      1. Nach "LaTeX Workshop" von James Yu suchen ...
-      1. ... und installieren
+## 🧭 Visual Overview
 
-### Erste Schritte mit LaTeX
+<p align="center">
+  <img src="Overview.png" alt="Overview of system development and operational methodology." width="900"/>
+  <br/>
+  <em>Overview of system development and operational methodology.</em>
+</p>
 
-   1. Entzippe den Ordner mit dem Template und verschiebe diesen an einen passenden Speicherort.
-   1. Öffne den Ordner in VSCode:
-      1. VSCode öffnen
-      1. Datei / Ordner öffnen / Ordner auswählen
-   1. Auf der linken Seite sollte nun der Inhalt des ganzen Ordners angezeigt werden.
-   1. Das wichtigste File ist **"main.tex"**. Dieses kannst du passende umbenennen (z.B: "maturaarbeit.tex", "sla.tex" oder ...).
-   1. Öffne nun das File: In dieses schreibst du den Inhalt deiner Arbeit. Nehme Änderungen vor.
-   1. TeX-File **Kompilieren**:
-      * Nun muss das File kompiliert, also in ein PDF umgewandelt, werden.
-      * Dies sollte immer geschehen, wenn du speicherst.
-      * Alternativ kann man auch manuell kompilieren:
-        1. Command palette öffnen: Ctrl + Shift + P (Win), Shift + Command + P (Mac)
-        1. "LaTeX Workshop: Build with recipe"
-        1. "latexmk" oder "pdflatex -> bibtex -> pdflatex x2" (falls Quellen nicht richtig kompiliert werden)
+## 📜 License
 
-### Wichtigste Files im Template
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-   * **main.tex:** Das **Hauptfile**, hier wird $95\%$ der Arbeit erledigt.
-   * **biblio.bib**:
-      * Hier werden alle **Quellen** erfasst.
-      * Achte darauf, dass die Notation genau stimmt.
-      * Oft kann man bei Artikeln oder Büchern den entsprechenden Eintrag aus dem Internet kopieren.
-      * Es gibt gute Programme (sollte direkt mit LaTeX installiert werden), um die Quellen in diesem File zu verwalten.
-   * **commands.tex**: Hier sind einige Kommandos definiert, die es einem erlauben, den Code kürzer zu halten, z.B. \f anstelle \frac um Brüche zu schreiben. Diese können ignoriert, angepasst und erweitert werden.
-   * **code_formatting.tex**: Nur relevant für Arbeiten, in denen Programmiert wird. Hier wird definiert, wie Programmiercode dargestellt werden soll. Aktuell erfasst Programmiersprachen sind: Python, C#, JavaScript. Dieses File kann verändert und für andere Programmiersprachen erweitert werden. Falls du dies machst, bin ich dir dankbar, wenn du mir deine Version zukommenlassen kannst (sca@ksr.ch), damit ich das Template damit erweitern kann.
-   * **makefile**: Erlaubt es einem, im Terminal mit "make clean" alle Files, die beim Kompilieren erstellt werden, wieder zu löschen und nur die ursprünglichen zu behalten.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+---
+✨ Enjoy exploring the thesis materials. 
